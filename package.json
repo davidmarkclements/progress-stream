@@ -1,10 +1,10 @@
 {
-  "name": "progress-stream",
-  "version": "1.0.1",
+  "name": "progress-stream2",
+  "version": "1.0.0",
   "description": "Read the progress of a stream",
   "repository": {
     "type": "git",
-    "url": "git@github.com:freeall/progress-stream.git"
+    "url": "git@github.com:davidmarkclements/progress-stream.git"
   },
   "keywords": [
     "stream",
