@@ -1,4 +1,11 @@
-# progress-stream
+# progress-stream2
+
+Exactly like progress stream, but with a
+"transferred" option, that allows us to specify
+an initial amount of progress, e.g. for indicating
+progress of resumed downloads. This module will be
+unpublished if progress-stream accepts and publishes
+[this pr](https://github.com/freeall/progress-stream/pull/11).
 
 Read the progress of a stream. Supports speed and eta.
 
